@@ -92,7 +92,7 @@ class FirebaseAuthManager(activity: Activity) {
 
     // Other authentication methods...
 }
-
+```
 
 ### Fetching Articles
 We use RssParser to fetch and parse articles from RSS feeds.
